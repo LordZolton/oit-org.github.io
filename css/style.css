@@ -1,0 +1,21 @@
+body {
+	background-image: url(../img/background.png);
+}
+
+h2 {
+	margin-top: 70px;
+}
+
+.down {
+	margin-bottom: 55px;
+}
+
+img {
+	border-radius: 22px;
+	margin: auto;
+}
+
+.row img{
+      display: block;
+      margin: 0 auto; 
+    }
